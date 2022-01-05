@@ -19,9 +19,9 @@ Additional description about the project and its features.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/daudi13)
-- Twitter: [@twitterhandle](https://twitter.com/davouma)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/david-ouma-3a3539179)
+- GitHub: [@daudi13](https://github.com/daudi13)
+- Twitter: [@davouma](https://twitter.com/davouma)
+- LinkedIn: [@david-ouma-3a3539179](https://linkedin.com/in/david-ouma-3a3539179)
 
 ## 🤝 Contributing
 
