@@ -2,7 +2,7 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Hello Microverse
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,28 +10,38 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- HTML
+- CSS
 
 
-## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## Authors
 
+👤 **Author1**
 
-To get a local copy up and running follow these simple example steps.
+- GitHub: [@daudi13](https://github.com/daudi13)
+- Twitter: [@davouma](https://twitter.com/davouma)
+- LinkedIn: [@david-ouma-3a3539179](https://linkedin.com/in/david-ouma-3a3539179)
 
-### Prerequisites
+## 🤝 Contributing
 
-### Setup
+Contributions, issues, and feature requests are welcome!
 
-### Install
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
 
 ### Usage
 
