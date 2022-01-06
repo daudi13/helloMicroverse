@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Hello Microverse
+> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,8 +10,34 @@ Additional description about the project and its features.
 
 ## Built With
 
-- HTML
-- CSS
+- Major languages
+- Frameworks
+- Technologies used
+
+## Live Demo
+
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
 
 
 
@@ -19,9 +45,15 @@ Additional description about the project and its features.
 
 👤 **Author1**
 
-- GitHub: [@daudi13](https://github.com/daudi13)
-- Twitter: [@davouma](https://twitter.com/davouma)
-- LinkedIn: [@david-ouma-3a3539179](https://linkedin.com/in/david-ouma-3a3539179)
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
